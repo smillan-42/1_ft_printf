@@ -9,7 +9,7 @@ SRC	=	ft_printf.c \
 			ft_putnbr_un.c \
 			ft_putnbr.c \
 			ft_putstr.c \
-			ft_strlen.c \
+			ft_putpoint.c \
 # Los Archivos "librerias" .o
 OBJ = ${SRC:.c=.o}
 # Se refiere a lo ejecutable
